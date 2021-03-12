@@ -1,0 +1,17 @@
+#username {
+    margin: auto;
+    border-radius: 50px;
+    width: 15%;
+    padding: 1em 0;
+    background-color: rgb(218, 218, 218);
+    text-align: center;
+    /* font-size: 2.5em; */
+    font-family: ubuntu;
+}
+
+
+@media only screen and (max-width: 600px) {
+    #username {
+        width: 50%;
+    }
+}
