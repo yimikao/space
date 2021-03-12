@@ -6,7 +6,7 @@ const Avatar = () => {
 
     return (
         <div id={'avatar-container'}>
-         <img alt="avatar" src="../images/avatar.png"></img>
+         <img alt="avatar" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1609199800390/LRujwsofo.png"></img>
         </div>
     )
 }
